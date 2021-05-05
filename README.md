@@ -1,8 +1,7 @@
-Yilin Zhang
-20758134 y2785zha
-openjdk version "11.0.8" 2020-07-14
-macOS 10.14.6 (MacBook Pro 2019)
+# Sketch It
+Sketch It is a drawing application that allows the user to draw lines and shapes on a canvas. The functionality is very similar to Windows Draw. <br>
 
+The user may save a drawing as a .txt file and export it to the local computer. The user may also open such a .txt file in Sketch It to view, modify or continue the drawing.
 
 Developer Journal:
 
@@ -26,3 +25,7 @@ Pressing Ok or Cancel on the new Window will close it but application remains in
     3. Cancel - Cancel execution
     
 6. When the application starts, it assumes we have an empty drawing. Thus if user quits immediately after the application starts, there will be a window prompting out asking if user wants to save (even though nothing has been drawn)
+
+
+openjdk version "11.0.8" 2020-07-14 <br>
+macOS 10.14.6 (MacBook Pro 2019)
