@@ -3,7 +3,7 @@ Sketch It is a drawing application that allows the user to draw lines and shapes
 
 The user may save a drawing as a .txt file and export it to the local computer. The user may also open such a .txt file in Sketch It to view, modify or continue the drawing.
 
-Developer Journal:
+Developer's Journal:
 
 0. Added Resize Option: Resize a shape by first clicking the bottom-right corner and then drag it to resize.
 (Works best with Circle and Rectangle; Line's endpoint is hard to click on, try the thickest line)
