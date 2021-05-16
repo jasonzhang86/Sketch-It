@@ -1,5 +1,5 @@
 # Sketch It
-Sketch It is a drawing application that allows the user to draw lines and shapes on a canvas. The functionality is very similar to Windows Draw. <br>
+Sketch It is a drawing application that allows the user to draw lines and shapes on a canvas. The functionality is very similar to Microsoft Paint. <br>
 
 The user may save a drawing as a .txt file and export it to the local computer. The user may also open such a .txt file in Sketch It to view, modify or continue the drawing.
 
